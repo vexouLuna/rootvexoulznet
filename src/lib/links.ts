@@ -64,6 +64,7 @@ export const LINK_GROUPS: LinkGroup[] = [
     links: [
       { name: 'Bluesky', icon: 'bluesky', handle: '@luna.vexoul.net', href: 'https://bsky.app/profile/luna.vexoul.net' },
       { name: 'Twitter', icon: 'twitter', handle: '@vexouluna', href: 'https://x.com/vexouluna' },
+      { name: 'VGen', handle: 'vgen/vexouluna', href: 'https://vgen.co/vexouluna' },
       { name: 'Steam', icon: 'steam', handle: 'steam/vexouluna', href: 'https://steamcommunity.com/id/vexouluna/' },
     ],
   },
